@@ -11,13 +11,13 @@ Basically it is a merge of my previous module which was really simple and https:
 ```
 {
   "dependencies": {
-    "eiscp": "git://github.com/tillbaks/node-eiscp.git"
+    "eiscp": "https://github.com/pawelchrobak/node-eiscp"
   }
 }
 ```
 
 #### See the examples
-https://github.com/tillbaks/node-eiscp/tree/master/examples
+https://github.com/pawelchrobak/node-eiscp/tree/master/examples
 
 ### Command syntax
 
