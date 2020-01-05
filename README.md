@@ -11,7 +11,7 @@ Basically it is a merge of my previous module which was really simple and https:
 ```
 {
   "dependencies": {
-    "eiscp": "https://github.com/pawelchrobak/node-eiscp"
+    "eiscp": "git://github.com/pawelchrobak/node-eiscp.git"
   }
 }
 ```
