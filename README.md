@@ -2,6 +2,8 @@
 
 This is a node module to control and interact with Onkyo receivers over the network.
 
+It's a fork of a package made by tillbaks ( https://github.com/tillbaks/node-eiscp ) made to fix some issues specific for my own receiver (TX-8050). Original project was archived.
+
 Basically it is a merge of my previous module which was really simple and https://github.com/miracle2k/onkyo-eiscp translated to javascript, which means a lot more features but some stuff still missing like handling multiple receivers and special commands (ranges are supported though).
 
 ### How to use it?
